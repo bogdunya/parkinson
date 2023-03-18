@@ -1,0 +1,11 @@
+F:\myProjects\parkinson\parkinson\bin\Debug\parkinson.exe.config
+F:\myProjects\parkinson\parkinson\bin\Debug\parkinson.exe
+F:\myProjects\parkinson\parkinson\bin\Debug\parkinson.pdb
+F:\myProjects\parkinson\parkinson\obj\Debug\parkinson.csproj.AssemblyReference.cache
+F:\myProjects\parkinson\parkinson\obj\Debug\parkinson.Properties.Resources.resources
+F:\myProjects\parkinson\parkinson\obj\Debug\parkinson.csproj.GenerateResource.cache
+F:\myProjects\parkinson\parkinson\obj\Debug\parkinson.csproj.CoreCompileInputs.cache
+F:\myProjects\parkinson\parkinson\obj\Debug\parkinson.exe
+F:\myProjects\parkinson\parkinson\obj\Debug\parkinson.pdb
+F:\myProjects\parkinson\parkinson\obj\Debug\parkinson.Form2.resources
+F:\myProjects\parkinson\parkinson\obj\Debug\parkinson.S.resources
